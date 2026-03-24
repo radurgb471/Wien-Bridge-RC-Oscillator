@@ -1,0 +1,27 @@
+  Revised: Monday, December 01, 2025
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 9,2025      12:37:57	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C2,C5	33n
+2	1	C3	4.7u
+3	2	C4,C6	5.6n
+4	2	D1,D2	D1N4148
+5	2	D3,D4	5V,LED,LED
+6	3	Q1,Q2,Q7	BC807-25
+7	6	Q3,Q4,Q5,Q6,Q8,Q9	BC817-25
+8	5	R13,R15,R17,R18,R_Load	1k
+9	3	R1,R14,R16	10k
+10	3	R6,R7,R9	4.7k
+11	1	R10	5.6k
+12	1	R11	2k
+13	1	R12	6.8k
